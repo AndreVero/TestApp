@@ -1,0 +1,21 @@
+ext.versions = [
+        // support library
+        materialVersion             : '1.2.1',
+        constraintVersion           : '2.0.4',
+
+        // architecture components
+        lifecycleVersion            : '2.2.0',
+        archCompomentVersion        : '2.1.0',
+
+        // di
+        daggerHiltCoreVersion       : '2.29.1-alpha',
+        daggerHiltVersion           : '1.0.0-alpha02',
+
+        // network
+        retrofitVersion             : '2.9.0',
+        okhttpVersion               : '4.7.2',
+
+        // moshi
+        moshiVersion            : '1.9.2',
+        moshiConverterVersion   : '2.7.2'
+]
